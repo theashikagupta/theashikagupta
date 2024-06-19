@@ -1,11 +1,9 @@
-- 👋 Hi, I’m @theashikagupta
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on various projects
+- 👋 Hi, I’m Ashika Gupta
+- Web Developer: Proficient in HTML, CSS, JavaScript, and modern frameworks like React and Node.js
+-🎓 B.Tech CSE Student at Galgotias University (2023-2027)
+-🚀 Open Source Contributor: Proud participant in GSSoC'24, making meaningful contributions to the community.
+-💬 Let's Connect: I'm always open to collaboration and new opportunities. Feel free to reach out!
 - 📫 You can reach me through instagram:@theashikagupta
                                linkedin:@ashikagupta
 
-<!---
-theashikagupta/theashikagupta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
