@@ -64,12 +64,11 @@ Operating Systems: <img src="https://img.shields.io/badge/-Windows-0F7BCF?logo=W
 <br>
 </div>
 </details>
-<!--- Footer Starts - 
-
-#### Made with ❤️ by me!
-</div>
 
 <!--- Footer End -->
+**Made with ❤️ by me!**
+
+
 <!--- Body End -->
 
 
