@@ -43,13 +43,27 @@ Operating Systems: <img src="https://img.shields.io/badge/-Windows-0F7BCF?logo=W
 
   <!--START_SECTION:activity-->
   **GSSoC 2024 Contributions:**
-1. 🎉 Merged PR [#3389](https://github.com/kunjgit/GameZone/pull/3389#issue-2302849782)) in [theashikagupta](https://github.com/theashikagupta)
+1. 🎉 Merged PR [#3389](https://github.com/kunjgit/GameZone/pull/3389#issue-2302849782) in [theashikagupta](https://github.com/theashikagupta)
 2. 💪 Merged PR [#3535](https://github.com/kunjgit/GameZone/pull/3525#issue-2305088445) in [theashikagupta](https://github.com/theashikagupta)
 3. 🎉 Merged PR [#3947](https://github.com/kunjgit/GameZone/pull/3947#issue-2326521947) in [theashikagupta](https://github.com/theashikagupta)
 4. 💪 Merged PR [#492](https://github.com/GSSoC24/Postman-Challenge/pull/492#issue-2433911173) in [theashikagupta](https://github.com/theashikagupta)
   <!--END_SECTION:activity-->
   </details> 
 
+<details>	
+ <summary><b>My GSSOC'24 Badges 🪶</b></summary><br>
+<div style='display:flex; align-items:center; gap: 10px;' align='center'>
+
+<br>
+<img src="https://raw.githubusercontent.com/theashikagupta/My-Stats-of-Gssoc2024-/main/Badge1.png" alt="Explorer Badge" width="250" height="250"/>
+<img src="https://raw.githubusercontent.com/theashikagupta/My-Stats-of-Gssoc2024-/main/Badge2.png" alt="Adventurer Badge" width="250" height="250"/>
+<img src="https://raw.githubusercontent.com/theashikagupta/My-Stats-of-Gssoc2024-/main/Badge3.png" alt="Trailblazer Badge" width="250" height="250"/>
+<img src="https://raw.githubusercontent.com/theashikagupta/My-Stats-of-Gssoc2024-/main/Badge4.png" alt="Summit Seeker Badge" width="250" height="250"/>
+<img src="https://raw.githubusercontent.com/theashikagupta/My-Stats-of-Gssoc2024-/main/Badge5.png" alt="Champion Badge" width="250" height="250"/>
+<img src="https://raw.githubusercontent.com/theashikagupta/My-Stats-of-Gssoc2024-/main/Badge6.png" alt="Postman Badge" width="250" height="250"/>
+<br>
+</div>
+</details>
 <!--- Footer Starts - 
 
 #### Made with ❤️ by me!
@@ -58,18 +72,5 @@ Operating Systems: <img src="https://img.shields.io/badge/-Windows-0F7BCF?logo=W
 <!--- Footer End -->
 <!--- Body End -->
 
-<details>	
- <summary><b>GSSOC(24) Badges 🪶</b></summary><br>
-<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
-<img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/1.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/2.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/3.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/4.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/5.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/6.png" width="105px" height="105px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/7.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/8.png" width="100px" height="100px" /></a>
-</div>
-</details>
+
 
