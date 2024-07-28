@@ -46,7 +46,7 @@ Operating Systems: <img src="https://img.shields.io/badge/-Windows-0F7BCF?logo=W
 1. 🎉 Merged PR [#3389](https://github.com/kunjgit/GameZone/pull/3389#issue-2302849782)) in [theashikagupta](https://github.com/theashikagupta)
 2. 💪 Merged PR [#3535](https://github.com/kunjgit/GameZone/pull/3525#issue-2305088445) in [theashikagupta](https://github.com/theashikagupta)
 3. 🎉 Merged PR [#3947](https://github.com/kunjgit/GameZone/pull/3947#issue-2326521947) in [theashikagupta](https://github.com/theashikagupta)
-4. 💪 Merged PR [#492] (https://github.com/GSSoC24/Postman-Challenge/pull/492#issue-2433911173) in [theashikagupta](https://github.com/theashikagupta)
+4. 💪 Merged PR [#492](https://github.com/GSSoC24/Postman-Challenge/pull/492#issue-2433911173) in [theashikagupta](https://github.com/theashikagupta)
   <!--END_SECTION:activity-->
   </details> 
 
