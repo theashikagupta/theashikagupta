@@ -4,7 +4,8 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/ashikagupta/">LinkedIn</a> |
   <a href="https://x.com/theashikagupta">Twitter</a> |
-  <a href="ashikagupta1503@gmail.com">Contact me</a> 
+  <a href="https://www.instagram.com/theashikagupta">Instagram</a>|
+  <a href="connect@ashikagupta.pro">Contact me</a> 
 </p> 
 
 -----------------------------------------------------------
