@@ -9,7 +9,7 @@
 </p> 
 
 -----------------------------------------------------------
-👨🏻‍💻 **About Me**<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="300px" align="right"> <br>
+👨🏻‍💻 **About Me**<img src="" min-width="300px" max-width="300px" width="300px" align="right"> <br>
 ✨ MERN Stack Developer <br>
 🎓 B.Tech CSE Student at Galgotias University (2023-2027) <br>
 🚀 Open Source Contributor: Proud participant in GSSoC'24, making meaningful contributions to the community. <br>
@@ -64,7 +64,15 @@ Operating Systems: <img src="https://img.shields.io/badge/-Windows-0F7BCF?logo=W
 <img src="https://raw.githubusercontent.com/theashikagupta/My-Stats-of-Gssoc2024-/main/Badge6.png" alt="Postman Badge" width="250" height="250"/>
 <br>
 </div>
+
 </details>
+
+
+<b>📊GitHub Stats:</b>
+<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center; justify-content: center;">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=theashikagupta&theme=dark&hide_border=false" height="140px"  style="min-width: 200px"> <img src="https://github-readme-stats.vercel.app/api?username=theashikagupta&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="140px"  style="min-width: 200px" >  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theashikagupta&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"   style="min-width: 200px">
+</div>
+
 
 <!--- Footer End -->
 **Made with ❤️ by me!**
