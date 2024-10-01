@@ -9,7 +9,7 @@
 </p> 
 
 -----------------------------------------------------------
-👨🏻‍💻 **About Me**<img src="" min-width="300px" max-width="300px" width="300px" align="right"> <br>
+👨🏻‍💻 **About Me**<img src="img.png" min-width="300px" max-width="300px" width="300px" align="right"> <br>
 ✨ MERN Stack Developer <br>
 🎓 B.Tech CSE Student at Galgotias University (2023-2027) <br>
 🚀 Open Source Contributor: Proud participant in GSSoC'24, making meaningful contributions to the community. <br>
