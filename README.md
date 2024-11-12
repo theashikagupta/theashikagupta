@@ -12,8 +12,8 @@
 👨🏻‍💻 **About Me**<img src="img.png" min-width="300px" max-width="300px" width="300px" align="right"> <br><br>
 ✨ MERN Stack Developer <br>
 🎓 B.Tech CSE Student at Galgotias University (2023-2027) <br>
-🚀 Open Source Contributor : Proud participant in GSSoC'24, making meaningful contributions to the community. <br>
-🎓 Open Source Mentor : Selected as Mentor for the project [Scribbie](https://github.com/Scribbie-Notes/notes-app.git) in the GSSoC Extended 2024 .<br>
+🚀 Open Source Contributor : Proud contributor Rank#356 in GSSoC'24, making meaningful contributions to the community. <br>
+🎓 Open Source Mentor : Selected as Mentor  Rank#14 for the project [Scribbie](https://github.com/Scribbie-Notes/notes-app.git) in the GSSoC Extended 2024 .<br>
 📫 How to reach me : visit  [LinkedIn](https://www.linkedin.com/in/ashikagupta/)<br>
 💬 Ask me about Mern Stack Development<br>
 <!--- Adding Tech Stack open Section -->
