@@ -13,7 +13,7 @@
 🎓 B.Tech CSE Student at Galgotias University (2023-2027) <br>
 🚀 Open Source Contributor: Proud contributor Rank#356 in GSSoC'24, making meaningful contributions to the community. <br>
 🎓 Open Source Mentor: Selected as Mentor Rank#14 for the project [Scribbie](https://github.com/Scribbie-Notes/notes-app.git) in the GSSoC Extended 2024.<br>
-💻 LeetCode: Solved 100+ coding problems, strengthening problem-solving & DSA skills. <br>
+💻 LeetCode: Solved 200+ coding problems, strengthening problem-solving & DSA skills. <br>
 🐍 AI/ML & Python: Learning Python and libraries like NumPy, Pandas, scikit-learn, Matplotlib, OpenCV, etc. <br>
 📫 How to reach me: visit [LinkedIn](https://www.linkedin.com/in/ashikagupta/) <br>
 💬 Ask me about MERN Stack Development, DSA & AI/ML<br>
