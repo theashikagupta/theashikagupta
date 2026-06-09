@@ -1,5 +1,5 @@
 <h1 align="center"> Hey there! I'm Ashika</h1>
-
+![Visitor Badge](https://komarev.com/ghpvc/?username=theashikagupta&color=blue&style=flat)
 <!--- Adding Header Elements -->
 <p align="center">
   <a href="https://www.linkedin.com/in/ashikagupta/">LinkedIn</a> |
